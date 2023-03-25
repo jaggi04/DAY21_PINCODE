@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: #f8f9fa;
+    font-style: impact;
+    background-image: url("https://www.deccanherald.com/sites/dh/files/article_images/2020/05/19/india%20post-431484742-1585206196.jpg");
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px 15px;
+
+}
+
+h1 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#results {
+    margin-top: 30px;
+}
